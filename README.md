@@ -16,7 +16,7 @@ In the root directory there is a file SCH.pdf which is the schematic diagram
  sudo apt-get install git build-essential fakeroot libncurses5-dev libssl-dev ccache
  sudo apt-get install dfu-util u-boot-tools device-tree-compiler libssl1.0-dev mtools
  sudo apt-get install bc python cpio zip unzip rsync file wget
- git clone --recursive https://github.com/weiyiadas/plutosdr_fw_7010_SDR.git
+ git clone --recursive https://github.com/weiyiadas/plutosdr_fw_7020_SDR.git
  cd plutosdr-fw
  export VIVADO_SETTINGS=/opt/Xilinx/Vivado/2022.2/settings64.sh
  make
